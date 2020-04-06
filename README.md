@@ -43,8 +43,7 @@
 	<sub>
 		More information about Christo ❤︎ and the projects worked on:
 		<a href="http://www.polygrammatic.com/">Media appearances</a>
-		<br>
-			<a href="https://yousician.com/">Yousician.com</a>
+		
 		</div>
 
 ## Table of contents
