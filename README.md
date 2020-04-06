@@ -3,7 +3,7 @@
 <h1 align="center">Christo</h1>
 
 <div align="center">
-	<strong>Yousician Programming Assignment</strong>
+	<strong>GetRestAPI Tool</strong>
 </div>
 <div align="center">
 	Using <code>Unity 2018.1.0f2</code>
