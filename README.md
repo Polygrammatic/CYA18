@@ -43,8 +43,8 @@
 	<sub>
 		More information about Christo ❤︎ and the projects worked on:
 		<a href="http://www.polygrammatic.com/">Media appearances</a>
-		
-		</div>
+	</sub>		
+</div>
 
 ## Table of contents
 
